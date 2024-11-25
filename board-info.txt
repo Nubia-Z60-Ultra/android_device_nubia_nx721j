@@ -1,0 +1,1 @@
+require board=pineapple|nx721j|nx721j
